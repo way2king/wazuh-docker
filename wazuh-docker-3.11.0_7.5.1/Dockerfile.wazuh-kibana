@@ -1,0 +1,1 @@
+FROM wazuh/wazuh-kibana:3.11.0_7.5.2
